@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @NjorogeGakuru
 - 👀 I’m interested in hiring Solutions Engineers, Implementation Engineers, Software Engineers
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I work at Sama
+- 💞️ My LinkedIn: https://www.linkedin.com/in/charles-gakuru/
 - 📫 How to reach me charles.gakuru@samasource.org
 
 <!---
